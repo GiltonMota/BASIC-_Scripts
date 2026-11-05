@@ -1,0 +1,14 @@
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\LogicaDeDecisao\bin\Debug\net10.0\LogicaDeDecisao.exe
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\LogicaDeDecisao\bin\Debug\net10.0\LogicaDeDecisao.deps.json
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\LogicaDeDecisao\bin\Debug\net10.0\LogicaDeDecisao.runtimeconfig.json
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\LogicaDeDecisao\bin\Debug\net10.0\LogicaDeDecisao.dll
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\LogicaDeDecisao\bin\Debug\net10.0\LogicaDeDecisao.pdb
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\LogicaDeDecisao\obj\Debug\net10.0\LogicaDeDecisao.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\LogicaDeDecisao\obj\Debug\net10.0\LogicaDeDecisao.AssemblyInfoInputs.cache
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\LogicaDeDecisao\obj\Debug\net10.0\LogicaDeDecisao.AssemblyInfo.cs
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\LogicaDeDecisao\obj\Debug\net10.0\LogicaDeDecisao.csproj.CoreCompileInputs.cache
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\LogicaDeDecisao\obj\Debug\net10.0\LogicaDeDecisao.dll
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\LogicaDeDecisao\obj\Debug\net10.0\refint\LogicaDeDecisao.dll
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\LogicaDeDecisao\obj\Debug\net10.0\LogicaDeDecisao.pdb
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\LogicaDeDecisao\obj\Debug\net10.0\LogicaDeDecisao.genruntimeconfig.cache
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\LogicaDeDecisao\obj\Debug\net10.0\ref\LogicaDeDecisao.dll

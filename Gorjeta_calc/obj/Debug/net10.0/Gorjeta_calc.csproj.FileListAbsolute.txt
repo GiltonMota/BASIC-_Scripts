@@ -1,0 +1,14 @@
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Gorjeta_calc\bin\Debug\net10.0\Gorjeta_calc.exe
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Gorjeta_calc\bin\Debug\net10.0\Gorjeta_calc.deps.json
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Gorjeta_calc\bin\Debug\net10.0\Gorjeta_calc.runtimeconfig.json
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Gorjeta_calc\bin\Debug\net10.0\Gorjeta_calc.dll
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Gorjeta_calc\bin\Debug\net10.0\Gorjeta_calc.pdb
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Gorjeta_calc\obj\Debug\net10.0\Gorjeta_calc.GeneratedMSBuildEditorConfig.editorconfig
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Gorjeta_calc\obj\Debug\net10.0\Gorjeta_calc.AssemblyInfoInputs.cache
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Gorjeta_calc\obj\Debug\net10.0\Gorjeta_calc.AssemblyInfo.cs
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Gorjeta_calc\obj\Debug\net10.0\Gorjeta_calc.csproj.CoreCompileInputs.cache
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Gorjeta_calc\obj\Debug\net10.0\Gorjeta_calc.dll
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Gorjeta_calc\obj\Debug\net10.0\refint\Gorjeta_calc.dll
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Gorjeta_calc\obj\Debug\net10.0\Gorjeta_calc.pdb
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Gorjeta_calc\obj\Debug\net10.0\Gorjeta_calc.genruntimeconfig.cache
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Gorjeta_calc\obj\Debug\net10.0\ref\Gorjeta_calc.dll

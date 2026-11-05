@@ -1,0 +1,15 @@
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Bcrowd_Iniciante_exercicios\bin\Debug\net10.0\Scripts_exercicios.exe
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Bcrowd_Iniciante_exercicios\bin\Debug\net10.0\Scripts_exercicios.deps.json
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Bcrowd_Iniciante_exercicios\bin\Debug\net10.0\Scripts_exercicios.runtimeconfig.json
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Bcrowd_Iniciante_exercicios\bin\Debug\net10.0\Scripts_exercicios.dll
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Bcrowd_Iniciante_exercicios\bin\Debug\net10.0\Scripts_exercicios.pdb
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Bcrowd_Iniciante_exercicios\obj\Debug\net10.0\Scripts_exercicios.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Bcrowd_Iniciante_exercicios\obj\Debug\net10.0\Scripts_exercicios.AssemblyInfoInputs.cache
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Bcrowd_Iniciante_exercicios\obj\Debug\net10.0\Scripts_exercicios.AssemblyInfo.cs
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Bcrowd_Iniciante_exercicios\obj\Debug\net10.0\Scripts_exercicios.csproj.CoreCompileInputs.cache
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Bcrowd_Iniciante_exercicios\obj\Debug\net10.0\Scripts_exercicios.sourcelink.json
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Bcrowd_Iniciante_exercicios\obj\Debug\net10.0\Scripts_exercicios.dll
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Bcrowd_Iniciante_exercicios\obj\Debug\net10.0\refint\Scripts_exercicios.dll
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Bcrowd_Iniciante_exercicios\obj\Debug\net10.0\Scripts_exercicios.pdb
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Bcrowd_Iniciante_exercicios\obj\Debug\net10.0\Scripts_exercicios.genruntimeconfig.cache
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Bcrowd_Iniciante_exercicios\obj\Debug\net10.0\ref\Scripts_exercicios.dll

@@ -1,0 +1,15 @@
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\TopFive\bin\Debug\net10.0\TopFive.exe
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\TopFive\bin\Debug\net10.0\TopFive.deps.json
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\TopFive\bin\Debug\net10.0\TopFive.runtimeconfig.json
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\TopFive\bin\Debug\net10.0\TopFive.dll
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\TopFive\bin\Debug\net10.0\TopFive.pdb
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\TopFive\obj\Debug\net10.0\TopFive.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\TopFive\obj\Debug\net10.0\TopFive.AssemblyInfoInputs.cache
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\TopFive\obj\Debug\net10.0\TopFive.AssemblyInfo.cs
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\TopFive\obj\Debug\net10.0\TopFive.csproj.CoreCompileInputs.cache
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\TopFive\obj\Debug\net10.0\TopFive.sourcelink.json
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\TopFive\obj\Debug\net10.0\TopFive.dll
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\TopFive\obj\Debug\net10.0\refint\TopFive.dll
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\TopFive\obj\Debug\net10.0\TopFive.pdb
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\TopFive\obj\Debug\net10.0\TopFive.genruntimeconfig.cache
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\TopFive\obj\Debug\net10.0\ref\TopFive.dll

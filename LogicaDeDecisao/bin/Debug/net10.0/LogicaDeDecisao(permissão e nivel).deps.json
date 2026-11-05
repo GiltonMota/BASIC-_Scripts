@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "LogicaDeDecisao(permissão e nivel)/1.0.0": {
+        "runtime": {
+          "LogicaDeDecisao(permissão e nivel).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LogicaDeDecisao(permissão e nivel)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

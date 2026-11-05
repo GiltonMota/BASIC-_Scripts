@@ -1,0 +1,14 @@
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Exercicio_RenovarInscriçaoMSG\bin\Debug\net10.0\Exercicio_RenovarInscriçaoMSG.exe
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Exercicio_RenovarInscriçaoMSG\bin\Debug\net10.0\Exercicio_RenovarInscriçaoMSG.deps.json
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Exercicio_RenovarInscriçaoMSG\bin\Debug\net10.0\Exercicio_RenovarInscriçaoMSG.runtimeconfig.json
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Exercicio_RenovarInscriçaoMSG\bin\Debug\net10.0\Exercicio_RenovarInscriçaoMSG.dll
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Exercicio_RenovarInscriçaoMSG\bin\Debug\net10.0\Exercicio_RenovarInscriçaoMSG.pdb
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Exercicio_RenovarInscriçaoMSG\obj\Debug\net10.0\Exercicio_RenovarInscriçaoMSG.GeneratedMSBuildEditorConfig.editorconfig
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Exercicio_RenovarInscriçaoMSG\obj\Debug\net10.0\Exercicio_RenovarInscriçaoMSG.AssemblyInfoInputs.cache
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Exercicio_RenovarInscriçaoMSG\obj\Debug\net10.0\Exercicio_RenovarInscriçaoMSG.AssemblyInfo.cs
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Exercicio_RenovarInscriçaoMSG\obj\Debug\net10.0\Exercicio_RenovarInscriçaoMSG.csproj.CoreCompileInputs.cache
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Exercicio_RenovarInscriçaoMSG\obj\Debug\net10.0\Exercicio_RenovarInscriçaoMSG.dll
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Exercicio_RenovarInscriçaoMSG\obj\Debug\net10.0\refint\Exercicio_RenovarInscriçaoMSG.dll
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Exercicio_RenovarInscriçaoMSG\obj\Debug\net10.0\Exercicio_RenovarInscriçaoMSG.pdb
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Exercicio_RenovarInscriçaoMSG\obj\Debug\net10.0\Exercicio_RenovarInscriçaoMSG.genruntimeconfig.cache
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Exercicio_RenovarInscriçaoMSG\obj\Debug\net10.0\ref\Exercicio_RenovarInscriçaoMSG.dll

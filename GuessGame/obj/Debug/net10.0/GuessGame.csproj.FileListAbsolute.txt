@@ -1,0 +1,14 @@
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\GuessGame\obj\Debug\net10.0\GuessGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\GuessGame\obj\Debug\net10.0\GuessGame.AssemblyInfoInputs.cache
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\GuessGame\obj\Debug\net10.0\GuessGame.AssemblyInfo.cs
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\GuessGame\obj\Debug\net10.0\GuessGame.csproj.CoreCompileInputs.cache
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\GuessGame\bin\Debug\net10.0\GuessGame.exe
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\GuessGame\bin\Debug\net10.0\GuessGame.deps.json
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\GuessGame\bin\Debug\net10.0\GuessGame.runtimeconfig.json
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\GuessGame\bin\Debug\net10.0\GuessGame.dll
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\GuessGame\bin\Debug\net10.0\GuessGame.pdb
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\GuessGame\obj\Debug\net10.0\GuessGame.dll
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\GuessGame\obj\Debug\net10.0\refint\GuessGame.dll
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\GuessGame\obj\Debug\net10.0\GuessGame.pdb
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\GuessGame\obj\Debug\net10.0\GuessGame.genruntimeconfig.cache
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\GuessGame\obj\Debug\net10.0\ref\GuessGame.dll

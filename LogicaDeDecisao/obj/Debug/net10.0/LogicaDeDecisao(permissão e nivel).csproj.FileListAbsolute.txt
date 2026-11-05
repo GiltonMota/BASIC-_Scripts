@@ -1,0 +1,14 @@
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\LogicaDeDecisao(permissão e nivel)\bin\Debug\net10.0\LogicaDeDecisao(permissão e nivel).exe
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\LogicaDeDecisao(permissão e nivel)\bin\Debug\net10.0\LogicaDeDecisao(permissão e nivel).deps.json
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\LogicaDeDecisao(permissão e nivel)\bin\Debug\net10.0\LogicaDeDecisao(permissão e nivel).runtimeconfig.json
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\LogicaDeDecisao(permissão e nivel)\bin\Debug\net10.0\LogicaDeDecisao(permissão e nivel).dll
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\LogicaDeDecisao(permissão e nivel)\bin\Debug\net10.0\LogicaDeDecisao(permissão e nivel).pdb
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\LogicaDeDecisao(permissão e nivel)\obj\Debug\net10.0\LogicaDeDecisao(permissão e nivel).GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\LogicaDeDecisao(permissão e nivel)\obj\Debug\net10.0\LogicaDeDecisao(permissão e nivel).AssemblyInfoInputs.cache
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\LogicaDeDecisao(permissão e nivel)\obj\Debug\net10.0\LogicaDeDecisao(permissão e nivel).AssemblyInfo.cs
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\LogicaDeDecisao(permissão e nivel)\obj\Debug\net10.0\LogicaDeDecisao(permissão e nivel).csproj.CoreCompileInputs.cache
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\LogicaDeDecisao(permissão e nivel)\obj\Debug\net10.0\LogicaDeDecisao(permissão e nivel).dll
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\LogicaDeDecisao(permissão e nivel)\obj\Debug\net10.0\refint\LogicaDeDecisao(permissão e nivel).dll
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\LogicaDeDecisao(permissão e nivel)\obj\Debug\net10.0\LogicaDeDecisao(permissão e nivel).pdb
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\LogicaDeDecisao(permissão e nivel)\obj\Debug\net10.0\LogicaDeDecisao(permissão e nivel).genruntimeconfig.cache
+F:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\LogicaDeDecisao(permissão e nivel)\obj\Debug\net10.0\ref\LogicaDeDecisao(permissão e nivel).dll

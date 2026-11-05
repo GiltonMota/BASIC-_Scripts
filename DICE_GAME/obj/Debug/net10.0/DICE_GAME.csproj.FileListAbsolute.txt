@@ -1,0 +1,14 @@
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\DICE_GAME\bin\Debug\net10.0\DICE_GAME.exe
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\DICE_GAME\bin\Debug\net10.0\DICE_GAME.deps.json
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\DICE_GAME\bin\Debug\net10.0\DICE_GAME.runtimeconfig.json
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\DICE_GAME\bin\Debug\net10.0\DICE_GAME.dll
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\DICE_GAME\bin\Debug\net10.0\DICE_GAME.pdb
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\DICE_GAME\obj\Debug\net10.0\DICE_GAME.GeneratedMSBuildEditorConfig.editorconfig
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\DICE_GAME\obj\Debug\net10.0\DICE_GAME.AssemblyInfoInputs.cache
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\DICE_GAME\obj\Debug\net10.0\DICE_GAME.AssemblyInfo.cs
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\DICE_GAME\obj\Debug\net10.0\DICE_GAME.csproj.CoreCompileInputs.cache
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\DICE_GAME\obj\Debug\net10.0\DICE_GAME.dll
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\DICE_GAME\obj\Debug\net10.0\refint\DICE_GAME.dll
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\DICE_GAME\obj\Debug\net10.0\DICE_GAME.pdb
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\DICE_GAME\obj\Debug\net10.0\DICE_GAME.genruntimeconfig.cache
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\DICE_GAME\obj\Debug\net10.0\ref\DICE_GAME.dll

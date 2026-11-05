@@ -1,0 +1,14 @@
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Degree_COnversor\bin\Debug\net10.0\Degree_COnversor.exe
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Degree_COnversor\bin\Debug\net10.0\Degree_COnversor.deps.json
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Degree_COnversor\bin\Debug\net10.0\Degree_COnversor.runtimeconfig.json
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Degree_COnversor\bin\Debug\net10.0\Degree_COnversor.dll
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Degree_COnversor\bin\Debug\net10.0\Degree_COnversor.pdb
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Degree_COnversor\obj\Debug\net10.0\Degree_COnversor.GeneratedMSBuildEditorConfig.editorconfig
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Degree_COnversor\obj\Debug\net10.0\Degree_COnversor.AssemblyInfoInputs.cache
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Degree_COnversor\obj\Debug\net10.0\Degree_COnversor.AssemblyInfo.cs
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Degree_COnversor\obj\Debug\net10.0\Degree_COnversor.csproj.CoreCompileInputs.cache
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Degree_COnversor\obj\Debug\net10.0\Degree_COnversor.dll
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Degree_COnversor\obj\Debug\net10.0\refint\Degree_COnversor.dll
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Degree_COnversor\obj\Debug\net10.0\Degree_COnversor.pdb
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Degree_COnversor\obj\Debug\net10.0\Degree_COnversor.genruntimeconfig.cache
+f:\Users\timot\Documents\HANNIBAL ARQUIVOS\ESTUDOS\PROGRAMAÇÃO\C#\BASIC#_Scripts\Degree_COnversor\obj\Debug\net10.0\ref\Degree_COnversor.dll
