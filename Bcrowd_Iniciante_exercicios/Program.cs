@@ -273,7 +273,7 @@ int minutos = sobraHora / 60;
 int segundos = tempo %= 60;
 
 Console.WriteLine($"{hora}:{minutos}:{segundos}");*/
-   
+
 //NOTAS E MOEDAS
 /*
 double valor = Convert.ToDouble (Console.ReadLine());
@@ -350,3 +350,66 @@ foreach(string cidade in nomesCidades)
     }
 }
 */
+
+//CATÁLOGO E PRODUTOS(POO)
+
+public class Produto
+{
+ public string? Nome { get; set; }
+ public double Preco { get; set; }
+ public void ExibirInformacoes()
+    {
+        Console.WriteLine($"Produto: {Nome} | Preço: R$ {Preco:F2}");
+    }
+}
+class Program{
+static void Main(){
+    Produto produto1 = new Produto
+    {
+        Nome = "Monitor 32 polegadas",
+        Preco = 1500.00,
+    };
+    Produto produto2 = new Produto
+    {
+        Nome = "Celular Poco-X7",
+        Preco = 2000.00
+    };
+    Produto produto3 = new Produto
+    {
+        Nome = "Climatizador Midea",
+        Preco = 930.00
+    };
+
+    Produto produto4 = new Produto
+    {
+        Nome = "Fone Blueetooth Basike",
+        Preco = 50.00
+    };
+   
+    List<Produto> catalogo = new List<Produto>()
+
+    {
+      produto1,
+      produto2,
+      produto3,
+      produto4,
+
+    };
+    foreach (Produto p in catalogo)
+        {
+            p.ExibirInformacoes();
+        }
+        
+        
+        
+        }
+ }   
+    
+
+
+
+   
+    
+    
+
+    
