@@ -352,7 +352,7 @@ foreach(string cidade in nomesCidades)
 */
 
 //CATÁLOGO E PRODUTOS(POO)
-
+/*
 public class Produto
 {
  public string? Nome { get; set; }
@@ -404,7 +404,7 @@ static void Main(){
         
         }
  }   
-    
+    */
 
 
 

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gorjeta_calc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+205ab6cd23e1961c904a54b228d894d866a4ecf6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f14b9d63df08b4f1d9dd4cfe1618e5bfa9beb42")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gorjeta_calc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gorjeta_calc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
