@@ -406,10 +406,23 @@ static void Main(){
  }   
     */
 
+// TESTE DE SELEÇÃO
+
+string valores = Console.ReadLine() ?? string.Empty;
+int[] valor = Array.ConvertAll(
+    valores.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries),
+    int.Parse);
+if ( valor[1] > valor[2] && valor[3] > valor[0] && valor[2] + valor[3] > valor[0] + valor[1] && valor[2] > 0 && valor[3] > 0 && valor[0] % 2 == 0)
+{
+    Console.WriteLine("Valores aceitos");
+}
+else 
+{
+    Console.WriteLine("Valores nao aceitos");
+}
 
 
    
     
     
 
-    
